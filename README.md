@@ -12,5 +12,5 @@ Derin Öğrenme: PyTorchKimya Bilişimi: RDKit, SELFIESVeri Görselleştirme: Ma
 Kullanım 
 Modeli eğitin veya önceden eğitilmiş ağırlıkları (.pth) yükleyin.demo.launch() hücresini çalıştırarak yerel sunucuyu başlatın.Bir molekül resmi veya hedef geometri şeması yükleyerek sonucu gözlemleyin.
 Örnek Sonuçlar
-Girdi TipiAmaçÇıktı (SMILES)Molekül GörseliDijital Arşivleme (Forward)Nc1ccc(cc1)-c2ccc(N)cc2Boş Altıgen ŞemaMalzeme Tasarımı (Inverse)C1(C#CC2...C=C2)=CC(C#CC3...C=C3)=CC...
+Girdi Tipi Amaç Çıktı (SMILES)Molekül Görseli Dijital Arşivleme (Forward)Nc1ccc(cc1)-c2ccc(N)cc2Boş Altıgen Şema Malzeme Tasarımı (Inverse)C1(C#CC2...C=C2)=CC(C#CC3...C=C3)=CC...
 Bu bir araştırma prototipidir. Veri seti çeşitliliğini artırmak veya farklı topolojiler (kare, üçgen kafesler) eklemek için PR göndermekten çekinmeyin!
